@@ -2,10 +2,11 @@
   Hii There !
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
-<img src="https://readme-typing-svg.herokuapp.com?color=00B4AB&size=26&center=true&vCenter=true&width=900&lines=I+am+Md. + Jiyaul + Haq.">
+<img src="https://readme-typing-svg.herokuapp.com?color=00B4AB&size=26&center=true&vCenter=true&width=900&lines=I+am+Md.+Jiyaul+Haq.">
 
 <br>
-<a href="https://wakatime.com/@a6c280ce-295b-4be9-bd1d-9203f1fa7b3f"><img src="https://wakatime.com/badge/user/a6c280ce-295b-4be9-bd1d-9203f1fa7b3f.svg" alt="Total time coded since Jun 19 2022" /></a>
+<a href="https://wakatime.com/@a6c280ce-295b-4be9-bd1d-9203f1fa7b3f"><img src="https://wakatime.com/badge/user/a6c280ce-295b-4be9-bd1d-9203f1fa7b3f.svg" alt="Total time coded since Jun 19 2022" /></a><br>
+
 - 🌱 I’m currently learning js
 - 🤔 I’m looking for help with open source softwares
 - 💬 Ask me about flutter dart ,js ,PHP,Python
