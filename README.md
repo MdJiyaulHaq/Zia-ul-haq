@@ -6,7 +6,6 @@
 
 <br>
 [![wakatime](https://wakatime.com/badge/user/a6c280ce-295b-4be9-bd1d-9203f1fa7b3f.svg)](https://wakatime.com/@a6c280ce-295b-4be9-bd1d-9203f1fa7b3f)
-<br>
 - 🌱 I’m currently learning js
 - 🤔 I’m looking for help with open source softwares
 - 💬 Ask me about flutter dart ,js ,PHP,Python
