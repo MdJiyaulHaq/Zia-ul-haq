@@ -7,9 +7,9 @@
 <br>
 <a href="https://wakatime.com/@a6c280ce-295b-4be9-bd1d-9203f1fa7b3f"><img src="https://wakatime.com/badge/user/a6c280ce-295b-4be9-bd1d-9203f1fa7b3f.svg" alt="Total time coded since Jun 19 2022" /></a><br>
 
-- 🌱 I’m currently learning js
-- 🤔 I’m looking for help with open source softwares
-- 💬 Ask me about flutter dart ,js ,PHP,Python
+- 🌱 I’m currently learning java
+- 🤔 I’m looking for help with Ml in Pythom
+- 💬 Ask me about java ,js ,PHP,Python
 - 📫 How to reach me:<br>
 
 
