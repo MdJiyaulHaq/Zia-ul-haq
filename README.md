@@ -8,7 +8,7 @@
 <a href="[![wakatime](https://wakatime.com/badge/user/a6c280ce-295b-4be9-bd1d-9203f1fa7b3f.svg)](https://wakatime.com/@a6c280ce-295b-4be9-bd1d-9203f1fa7b3f)" /></a><br>
 
 - 🌱 I’m currently learning java
-- 🤔 I’m looking for help with Ml in Pythom
+- 🤔 I’m looking for help with ML in Pythom
 - 💬 Ask me about java ,js ,PHP,Python
 - 📫 How to reach me:<br>
 
